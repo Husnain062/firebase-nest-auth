@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "ng-firebase-8f5b5",
+    "staging": "doctorpatient-6f490"
+  }
+}
